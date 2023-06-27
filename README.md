@@ -12,5 +12,13 @@ The aim is to achieve accurate weed identification and classification. The datas
 
 Store the extracted edge features obtained from the above preprocessing of the images in the form of lists and used them to train support vector machine to learn the edges of both crops and weeds. 80 percent of the images were used for training and 20 percent of the images were used for testing. 
 
+# Classification Results
+<img src="img-1.jpeg" alt="Alt Text" width="600">
+
+# Confusion Matrix and HeatMap
+<img src="img-2.jpeg" alt="Alt Text" width="300">
+<img src="img-3.jpeg" alt="Alt Text" width="300">
+
+
 References:  
 Muthu, Pabitha. (2021). WEED DETECTION USING IMAGE PROCESSING. 10.13140/RG.2.2.15116.64642. 
