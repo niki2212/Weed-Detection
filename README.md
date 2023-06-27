@@ -11,3 +11,6 @@ The aim is to achieve accurate weed identification and classification. The datas
 - Canny edge detection- From the dilated image, we perform canny edge detection on the dilated image obtained above. We highlight the edges as white pixels in the resulting image.  
 
 Store the extracted edge features obtained from the above preprocessing of the images in the form of lists and used them to train support vector machine to learn the edges of both crops and weeds. 80 percent of the images were used for training and 20 percent of the images were used for testing. 
+
+References:  
+Muthu, Pabitha. (2021). WEED DETECTION USING IMAGE PROCESSING. 10.13140/RG.2.2.15116.64642. 
